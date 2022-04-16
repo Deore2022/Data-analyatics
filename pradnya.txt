@@ -1,0 +1,64 @@
+1) How many unemployed people take a loan? And which type of marital status people is more?
+ans: We have 13 unemployed people who take a loan and 10 of them are married.
+     comment: Married people takes a loan than the other.
+
+2) Which job type of people take a housing loan more?
+ans: There are 13 type of job people. And from them blue-collar job type people take a housing
+     loan. 
+     comment: Ratio of blue-collar job type people with another job type is more.
+
+3) How many categorical column are there? what are they?
+ans: There are 6 categorical column. And they are job, marital, education, contact, month, poutcome.
+     comment: In data categorical column has its own importance.
+
+4) How many people are contact by cellular?
+ans: 2896 people contact by cellular.
+     comment: Most of the people give the preference for cellular for contact.
+
+5) In which month the bank contact to the people more?
+ans: In may month the bank contact to the people more.
+     comment: The bank observe that in june month people needs the money for many reasons.
+
+6) What is the ratio of housing loan to the personal loan?
+ans: The ratio of housing to personal loan is 2559:691.
+     comment: People gives the preference for housing loan.
+
+7) If we do the classes of ages then which range age people take a loan more?
+ans: we do the classes 19-30=89, 31-40=274, 41-50=181, 51-61=147
+     since, the 31-40 range age people take a loan more.
+     comment: That range age people is settle and they may have inaf sallary for taking loan.
+
+8) What is the percentage of people who take housing loan and the personal loan? And both?
+ans: Housing loan: 56.60%
+     Personal loan: 15.28%
+     Both housing and personal loan: 8.98%
+     comment: Before the campaign very less people had get contact.
+
+9) How many people had contact previous also?
+ans: 816 people.
+     comment: Before the campaign very less people had get contact.
+
+10) How many single marital status people are students?
+ans: 74
+     comment: In our data very few peoples are students.'
+
+11) what is the percentage of people who do the job as techinician and education is primary and secondary?
+ans: 11.83%
+     comment: The percentage of techinician who's education is primary and secondary.
+
+12) How many secondary and tertiary takes a loan?
+ans: 590 peoples.
+     comment: Very less peoples are taking a loan.
+
+13) What is the ratio of unemployed to married?
+ans: 128:2797
+     comment: Unemployed people does not take a loan mostly.
+
+14) In which month the campaign is done more?
+ans: In may month the campaign is done more.
+     comment: As per observation, In june month people needs money.
+
+15) How many peoples credit by default?
+ans: 76
+     comment: Every person do the bank transiction's carefully.
+     
